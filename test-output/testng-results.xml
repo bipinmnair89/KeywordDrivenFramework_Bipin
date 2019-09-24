@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7982" started-at="2019-09-18T13:35:42Z" finished-at="2019-09-18T13:35:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7982" started-at="2019-09-18T13:35:42Z" finished-at="2019-09-18T13:35:50Z">
+      <class name="com.test.hubspot.keyword.tests.LoginTest">
+        <test-method status="PASS" signature="load()[pri:0, instance:com.test.hubspot.keyword.tests.LoginTest@ae45eb6]" name="load" duration-ms="7955" started-at="2019-09-18T13:35:42Z" finished-at="2019-09-18T13:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- load -->
+      </class> <!-- com.test.hubspot.keyword.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
